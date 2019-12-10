@@ -5,9 +5,9 @@
  
 ### 2. 크롤링
 
- * [네이버](https://www.naver.com/)의 실시간 급상승 검색어
-파일명: 02_naver_top_search_words.py
- * [다음](https://www.daum.net/)의 실시간 이슈 검색어
-파일명: 03_daum_top_search_words.py
- * [줌](http://zum.com/)의 실시간 급상승 검색어
-파일명: 04_zum_top_search_words.py
+ * [네이버](https://www.naver.com/)의 실시간 급상승 검색어 <br>
+※ 파일명: 02_naver_top_search_words.py
+ * [다음](https://www.daum.net/)의 실시간 이슈 검색어 <br>
+※ 파일명: 03_daum_top_search_words.py
+ * [줌](http://zum.com/)의 실시간 급상승 검색어 <br>
+※ 파일명: 04_zum_top_search_words.py
